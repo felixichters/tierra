@@ -1,0 +1,5 @@
+*.o
+*.a
+tierra-cli
+tierra-viz
+result
