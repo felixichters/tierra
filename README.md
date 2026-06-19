@@ -8,8 +8,8 @@ rebuilt as a global-free `TWorld` + small C API. Added a live raylib soup map an
 ## Build
 
 ```
-nix develop -c make        # libtierra.a, tierra-cli, tierra-viz
-nix develop -c make debug  # -O0 -g build
+make        # libtierra.a, tierra-cli, tierra-viz
+make debug  # -O0 -g build
 ```
 
 ## Run
